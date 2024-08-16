@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is the Jeandurand-08-2024 project, a Pokedex application built using Vue.js, TypeScript, Pinia for state management, and Tailwind CSS for styling. The project uses Vite for development and build tooling.
+This is the Jeandurand-08-2024 project, an application built using Vue.js, TypeScript, Pinia for state management, and Tailwind CSS for styling. The project uses Vite for development and build tooling.
 
 ## Table of Contents
 
