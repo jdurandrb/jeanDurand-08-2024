@@ -1,6 +1,6 @@
-# Feedback del Proyecto Pokedex
+# Feedback del Proyecto
 
-Estimado equipo de Talana,
+Estimado equipo,
 
 Adjunto el feedback de la prueba que realicé. A pesar de que aún quedan aspectos por mejorar, he decidido enviarlo de manera anticipada debido a compromisos laborales que me impiden continuar hoy. Inicié la prueba ayer, aprovechando el feriado, a pesar de que la tarea fue asignada el miércoles a las 19:00 horas.
 
@@ -8,20 +8,14 @@ Adjunto el feedback de la prueba que realicé. A pesar de que aún quedan aspect
 
 En este proyecto desarrollado con Vue.js existen oportunidades de mejora, como en la experiencia de usuario, el rendimiento y la calidad del código.
 
-## Puntos Fuertes
-
-- **Modularidad:** El proyecto está bien organizado en componentes y composables, lo que facilita el mantenimiento.
-- **Gestión de Estado:** El uso de Pinia para manejar el estado global es efectivo y limpio.
-- **Carga de Datos:** La carga incremental de Pokémon es una buena práctica para mejorar el rendimiento inicial.
-
 ## Áreas de Mejora
 
 ### Experiencia del Usuario
 
-- **Retroalimentación al Usuario:** Implementar notificaciones más informativas y visuales para acciones como agregar Pokémon al equipo.
+- **Retroalimentación al Usuario:** Implementar notificaciones más informativas y visuales para acciones como agregar una Unidad al equipo.
 - **Accesibilidad:** Asegurar que la aplicación cumpla con los estándares de accesibilidad, utilizando atributos ARIA y siguiendo las pautas WCAG.
 - **Carga Inicial:** Mejorar carga inicial y preloaders. Hay partes donde no se implementó.
-- **Mensajes de acciones:** Añadir más mensajes que avisen al usuario de acciones realizadas o acciones están en proceso (por ejemplo, al eliminar un pokemon del team).
+- **Mensajes de acciones:** Añadir más mensajes que avisen al usuario de acciones realizadas o acciones están en proceso (por ejemplo, al eliminar una Unidad del team).
 
 ### Rendimiento
 
@@ -35,7 +29,7 @@ En este proyecto desarrollado con Vue.js existen oportunidades de mejora, como e
 - **Estilos:** Establecer una guía de estilos y utilizar un linter para mantener la consistencia del código. Definir una paleta de colores, tipografía y espaciado para toda la aplicación.
 - **Separación de Responsabilidades:** Separar aún más la lógica de presentación de la lógica de negocio.
 - **Ordenación en componentes:** Dejar en el mismo orden declaraciones / hooks / watchers / .... / methods.
-- **Separación de interfaces:** Separar las interfaces que definen esquemas para pokemon y team.
+- **Separación de interfaces:** Separar las interfaces que definen esquemas para la Unidad y team.
 
 ## Recomendaciones Específicas
 
